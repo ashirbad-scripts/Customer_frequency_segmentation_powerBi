@@ -52,6 +52,5 @@ This project is a **demo/portfolio dashboard** built in **Power BI** using **Pow
 ---
 
 ## Creator
-Ashirbad Routray
-September 2025
+Ashirbad Routray <br> September 2025
 
