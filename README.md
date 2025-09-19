@@ -51,5 +51,6 @@ This project is a **demo/portfolio dashboard** built in **Power BI** using **Pow
 
 ---
 
-## Author 
-Ashirbad Routray
+**Creator:** \[Ashirbad Routray]
+**Date:** \[September, 2025]
+
