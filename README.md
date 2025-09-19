@@ -4,7 +4,10 @@
 
 This project is a **demo/portfolio dashboard** built in **Power BI** using **Power Query** for data shaping and transformation. The goal of the dashboard is to segment customers based on their purchase behavior, frequency, and value, enabling better understanding of retention strategies and customer insights.
 
-![Dashboard Preview](https://i.ibb.co/BVVnvh6M/Screenshot-2025-09-18-165753.png)
+<p align="center">
+  <img src="https://i.ibb.co/BVVnvh6M/Screenshot-2025-09-18-165753.png" alt="Dashboard Screenshot" style="max-width:100%; height:auto;"/>
+</p>
+
 
 
 ---
